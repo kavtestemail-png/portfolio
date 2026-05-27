@@ -11,7 +11,7 @@ This Power BI dashboard provides a deep-dive into Sri Lanka's Win/Loss records, 
 ## 📁 Files in this Repository
 - **SLC_Overview_Page**: Overview page.
 - **SLC_WinLossAnalysis_Page**: Win/Loss Analysis page.
-- **SLC_DetailView_Page.png** : Details page
+- **SLC_DetailView_Page** : Details page.
 - **SL_Cricket_Match_Dashboard.pbix**: The full Power BI report.
 - **sri_lanka_international_cricket_matches_2000_present_clean.csv**: The raw data used for the analysis.
 
