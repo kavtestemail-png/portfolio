@@ -6,7 +6,7 @@ This Power BI dashboard provides a deep-dive into Sri Lanka's Win/Loss records, 
 ## 📊 View the Dashboard
 
 ## 📷 Screenshots
-![Main Page](SLC_Overview_Page)
+![Main Page](Sri-Lanka-Cricket/SLC_Overview_Page.png)
 
 ## 📁 Files in this Repository
 - **SLC_Overview_Page**: Overview page.
