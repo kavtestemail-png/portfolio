@@ -3,10 +3,16 @@
 ## 📌 Project Overview
 This Power BI dashboard provides a deep-dive into Sri Lanka's Win/Loss records, Toss impact, and player performance from 2003 to 2026.
 
-## 📊 View the Dashboard
+## 📷 Dashboard Screenshots
 
-## 📷 Screenshots
-![Main Page](SLC_OverView_Page.png)
+### Overview Page
+![Overview Page](SLC_Overview_Page.png)
+
+### Win/Loss Analysis
+![Win Loss Analysis](SLC_WinLossAnalysis_Page.png)
+
+### Detail View
+![Detail View](SLC_DetailView_Page.png)
 
 ## 📁 Files in this Repository
 - **SLC_Overview_Page**: Overview page.
