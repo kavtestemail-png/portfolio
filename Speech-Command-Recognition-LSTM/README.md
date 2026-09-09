@@ -79,3 +79,34 @@ Model Training
 Performance Evaluation
         ↓
 Prediction on Unseen Audio
+```
+
+
+## Model Performance
+
+The training history was analyzed using training and validation
+accuracy and loss curves.
+
+### Accuracy
+
+![Training and Validation Accuracy](Results/ConfusionMatrix_heatmap_TestData.png)
+
+*Figure 1: Training and validation accuracy across epochs.*
+
+### Loss
+
+![Training and Validation Loss](Results/Training_Validation_Loss.png)
+
+*Figure 2: Training and validation loss across epochs.*
+
+### Confusion Matrix
+
+![Confusion Matrix](Results/ConfusionMatrix_heatmap_NewlyRecordedVoices.png)
+
+*Figure 3: Confusion matrix showing classification performance across speech command classes.*
+
+### Classification Report
+
+![Classification report](Results/NewVoiceRecordings_Accuracy.png)
+
+*Figure : Classification report showing classification performance across speech command classes and overall accuracy (83%) .*
