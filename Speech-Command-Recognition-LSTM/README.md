@@ -109,4 +109,4 @@ accuracy and loss curves.
 
 ![Classification report](Results/NewVoiceRecordings_Accuracy.png)
 
-*Figure : Classification report showing classification performance across speech command classes and overall accuracy (83%) .*
+*Figure 4: Classification report showing classification performance across speech command classes and overall accuracy (83%) .*
